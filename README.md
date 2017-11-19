@@ -1,2 +1,8 @@
 # hellod-world
-just a repository
+
+
+hi Human,
+
+i like node.js, and java. php? okay
+
+see you
