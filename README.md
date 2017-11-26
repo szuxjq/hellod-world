@@ -1,8 +1,4 @@
 # hellod-world
 
+why change readme again ah?
 
-hi Human,
-
-i like node.js, and java. php? okay
-
-see you
